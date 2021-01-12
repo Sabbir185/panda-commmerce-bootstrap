@@ -1,0 +1,9 @@
+.bg-color-all{
+    background-color: #FCEAE8;
+}
+.panda-card, .panda-btn{
+    border: 0;
+}
+.panda-btn{
+    background-color: white;
+}
