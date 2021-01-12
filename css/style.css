@@ -1,9 +1,21 @@
-.bg-color-all{
-    background-color: #FCEAE8;
+.bg-slide .carousel-item , .footer-bg{
+    background-color: #fde2e0;
+    border-radius: 1em;
 }
+
 .panda-card, .panda-btn{
     border: 0;
 }
 .panda-btn{
     background-color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.cat-custom{
+    width: 80%;
+    height: 80%;
+    color:white
 }
